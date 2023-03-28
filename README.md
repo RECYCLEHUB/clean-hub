@@ -54,7 +54,7 @@ Tertiary institutions student with Smartphones
 Working professionals with smartphones
 
 Is this project relevant or dependent on a specific locale?
-Relevant to Lagosians and may later be expanded to major cities in Nigeria
+Relevant to people of Lagos & Ibadan and may later be expanded to major cities in Nigeria
 
 Risks
 No risk
