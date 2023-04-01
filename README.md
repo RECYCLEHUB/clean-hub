@@ -14,8 +14,9 @@ Cleanhub is a Web application that helps people earn money while they dispose re
 
 ## Team Members
 
-[Suara Ayomide](github.com/aysuarex) : Figma Designs plus backend\
-Jamiu Ismail: Front-End
+[Suara Ayomide](github.com/aysuarex) : Frontend and Backend\
+Jamiu Ismail: FrontEnd and Backend\
+Precious: Figma Designs
 
 Each member is more comfortable with the roles
 
