@@ -1,0 +1,83 @@
+.shopCard1 {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.card {
+  box-sizing: border-box;
+  height: 330px;
+  border: 1px solid white;
+  box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+  backdrop-filter: blur(6px);
+  border-radius: 17px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.5s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bolder;
+  margin-bottom: 20px;
+}
+.pContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 20px;
+}
+.shopCardImg {
+  transition: transform 0.1s;
+  width: 250px;
+  height: 250px;
+  object-fit: contain;
+}
+.shopCardImg:hover {
+  transform: scale(1.1);
+}
+.title,
+.price,
+.cartTitle {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 26px;
+  cursor: pointer;
+  color: #02230a;
+}
+.addtocart {
+  padding: 30px;
+  border-radius: 100px;
+  border: none;
+  font-size: 20px;
+  position: relative;
+  background: #2ba84a;
+  cursor: pointer;
+  height: 2em;
+  width: 10em;
+  overflow: hidden;
+  z-index: 1;
+}
+.cartBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.pretext {
+  color: #fff;
+  background: #2ba84a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
